@@ -1,3 +1,4 @@
+/*********************Tag Selector**************************/
 body {
   background-color: #dcd6f7;
 }
@@ -12,8 +13,54 @@ hr {
 
 h1 {
   color: #5b5656;
+  text-decoration: underline;
+  text-shadow: 2px 2px 5px #827397;
+
 }
 
 h3 {
   color: #5b5656;
+  text-decoration: underline;
 }
+
+/************************Class Selector****************************/
+
+.stars:hover {
+  background-color: gold;
+ }
+
+ .Q:hover {
+background-color: #0779e4
+ }
+
+/************************ID Selector********************************/
+
+#Cars:hover {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  }
+
+#cooking:hover{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  }
+
+#Web:hover {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  }
+
+#driving:hover {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  }
+
+#bbq:hover {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  }
+
+#football:hover {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  }
